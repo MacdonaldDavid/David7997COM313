@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/8MddaM2pkSY8KVIrIJn6ihBMZhUIxCQZXhA3tOcpOcgMoHryApySBBJBcVpOMOw/iRAD/jjpYyq9NTX65k+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\Start (1)\\Start\\Overview\\MyConsoleApp\\MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
