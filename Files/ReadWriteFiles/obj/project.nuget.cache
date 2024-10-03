@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B5jDzRBHr6+HeO6M39TrALt1zIoZVLsoTvPIEbfryPCSydj3yhk9R88O1w4s1TTB6AnqkHWbAlJCcLTzREnZiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Downloads\\Start (1)\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
